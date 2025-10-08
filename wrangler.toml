@@ -1,0 +1,5 @@
+name = "skynerd-api"
+main = "src/index.ts"
+compatibility_date = "2025-10-07"
+[vars]
+ALLOWED_ORIGINS = "https://skynerd.io,http://localhost:3000"
